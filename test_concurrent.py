@@ -19,7 +19,7 @@ def test_coin_service():
     }
     headers = {
         'Accepts': 'application/json',
-        'X-CMC_PRO_API_KEY': '0d997c8f-1229-4720-a95b-2c398a244e18'
+        'X-CMC_PRO_API_KEY': 'XXX'
     }
 
     try:
